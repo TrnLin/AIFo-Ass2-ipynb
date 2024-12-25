@@ -1,0 +1,10 @@
+work_year,experience_level,employment_type,job_title,salary,salary_currency,salary_in_usd,employee_residence,remote_ratio,company_location,company_size
+2023,SE,FT,Data Scientist,200000,USD,200000,CA,100,US,L
+2023,EN,FT,Data Scientist,95000,USD,95000,US,0,US,M
+2023,MI,FT,Data Scientist,120000,USD,120000,UK,50,UK,S
+2023,SE,FT,Data Scientist,160000,USD,160000,CA,100,CA,L
+2023,MI,FT,Data Scientist,130000,USD,130000,US,100,US,M
+2023,SE,FT,Data Scientist,150000,USD,150000,US,0,US,S
+2023,SE,FT,Data Scientist,180000,USD,180000,US,50,US,M
+2023,MI,FT,Data Scientist,100000,USD,100000,US,50,US,M
+2023,SE,FT,Data Scientist,200000,USD,200000,US,100,US,L
